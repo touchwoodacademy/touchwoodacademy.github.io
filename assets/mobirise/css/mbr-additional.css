@@ -1,5 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
+@import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
 #dropdown-menu-2 .hide-buttons [data-button] {
   display: none !important;
 }
@@ -19,41 +19,6 @@
 }
 #dropdown-menu-2 .navbar-toggler {
   color: #000000;
-}
-
-#dropdown-menu-0 .hide-buttons [data-button] {
-  display: none !important;
-}
-#dropdown-menu-0 .nav .link,
-#dropdown-menu-0 .dropdown-item {
-  font-size: 1em;
-  color: #000000;
-}
-#dropdown-menu-0 .navbar,
-#dropdown-menu-0 .dropdown-menu {
-  background: #333333;
-}
-#dropdown-menu-0 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
-#dropdown-menu-0 .dropdown-menu a:hover,
-#dropdown-menu-0 .dropdown-menu a:focus {
-  background: #292929;
-}
-#dropdown-menu-0 .navbar-toggler {
-  color: #000000;
-}
-#header4-1 H1 {
-  text-align: left;
-  color: #eb6b56;
-  font-size: 36px;
-}
-#header4-1 B {
-  font-family: 'Merriweather', serif;
-  font-size: 48px;
-}
-#header4-1 P {
-  font-size: 30px;
-  color: #efefef;
-  text-align: left;
 }
 #dropdown-menu-3 .hide-buttons [data-button] {
   display: none !important;
@@ -116,4 +81,39 @@
 }
 #msg-box4-e .mbr-article P {
   font-family: 'PT Sans Narrow', sans-serif;
+}
+
+#dropdown-menu-0 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-0 .nav .link,
+#dropdown-menu-0 .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-0 .navbar,
+#dropdown-menu-0 .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-0 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-0 .dropdown-menu a:hover,
+#dropdown-menu-0 .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-0 .navbar-toggler {
+  color: #000000;
+}
+#header4-1 H1 {
+  text-align: left;
+  color: #eb6b56;
+  font-size: 36px;
+}
+#header4-1 B {
+  font-family: 'Merriweather', serif;
+  font-size: 48px;
+}
+#header4-1 P {
+  font-size: 30px;
+  color: #efefef;
+  text-align: left;
 }
